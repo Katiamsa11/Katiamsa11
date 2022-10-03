@@ -18,8 +18,14 @@
 Thanks for visiting and I'd love to connect!
 
 
-Tech Stacks
-🛠 Skills: 
-	HTML, CSS, JavaScript, Node, React, Express, MySQL, Agile, Development, Document Object Model (DOM) APIs, Web APIs, User Authentication, OAuth, Heroku, GitHub, Jest.
+#### Tech Stacks
 
-⛏ Interest in learning next: Typescript & Flutter.
+
+🛠 Skills: 
+
+HTML, CSS, JavaScript, Node, React, Express, MySQL, Agile, Development, Document Object Model (DOM) APIs, Web APIs, User Authentication, OAuth, Heroku, GitHub, Jest.
+
+
+⛏ Interest in learning next:
+
+Typescript & Flutter.

@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there I'm Katia👋
+- 👩‍💻 Full stack web developer
 
-<!--
-**Katiamsa11/Katiamsa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 Love for tech, food and innovation
 
-Here are some ideas to get you started:
+- 💓 Passionate about learning more coding languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ New to coding and hoping to grow in the tech industry
+
+- 🔭 I’m currently working on Chefy a web-based platform to connect chefs with households for private in-home dining experiences. Clients can search for and book the chef best suited for their event.
+
+- 📫 How to reach me: Katiamsa11@gmail.com or follow me on linkedIn at : https://www.linkedin.com/in/katiamsa11
+
+- 😄 Pronouns: She/Her
+
+- ⚡ Fun fact: I 💚 Frenchies 🐶 !
+
+Thanks for visiting and I'd love to connect!
+
+
+Tech Stacks
+🛠 Skills: 
+	HTML, CSS, JavaScript, Node, React, Express, MySQL, Agile, Development, Document Object Model (DOM) APIs, Web APIs, User Authentication, OAuth, Heroku, GitHub, Jest.
+
+⛏ Interest in learning next: Typescript & Flutter.
